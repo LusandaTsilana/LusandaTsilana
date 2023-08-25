@@ -5,8 +5,8 @@ I'm Lusanda from South Africa and I design and develop websites and applications
 <br>
 <h1>Languages</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,python&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,python&perline=5)](https://skillicons.dev)
 
 <h1>Technologies & Frameworks</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,vuejs,bootstrap,figma&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,vuejs,bootstrap,figma&perline=5)](https://skillicons.dev)
