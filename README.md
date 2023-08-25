@@ -1,4 +1,4 @@
-# Hi there 
+# Hi there!
 I'm <strong>Lusanda</strong> from South Africa and I design and develop websites and applications. I really enjoy learning and using frameworks such as Vue.JS. Additionally, I have a high interest for <strong>backend developer languages</strong> such as Python and Java. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LusandaTsilana)](https://github.com/anuraghazra/github-readme-stats)
