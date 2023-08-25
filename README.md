@@ -3,4 +3,5 @@ I'm Lusanda from South Africa and I design and develop websites and applications
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LusandaTsilana)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+<h1>Languages & Technolgies</h1>
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,javascript,nodejs,vuejs,python,java&theme=light)](https://skillicons.dev)
