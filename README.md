@@ -16,7 +16,4 @@ I'm <strong>Lusanda</strong> from South Africa and I design and develop websites
   </a>
 </p>
 
-<style>
-  p{
-    text-align:center;
-</style>
+
