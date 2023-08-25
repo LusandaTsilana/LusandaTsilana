@@ -4,7 +4,7 @@ I'm <strong>Lusanda</strong> from South Africa and I design and develop websites
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LusandaTsilana)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-<p align="center">
+<p>
   <h1 >Languages</h1>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python&perline=5" />
@@ -16,3 +16,7 @@ I'm <strong>Lusanda</strong> from South Africa and I design and develop websites
   </a>
 </p>
 
+<style>
+  p{
+    text-align:center;
+</style>
