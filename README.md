@@ -3,7 +3,7 @@ I'm <strong>Lusanda</strong> from South Africa and I design and develop websites
 
 <p>Currently, I am learning:<br>
 
-<img src="https://skillicons.dev/icons?i=javascript,vue.js&perline=5" /></p>
+<img src="https://skillicons.dev/icons?i=javascript,vuejs,sas&perline=5" /></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LusandaTsilana)](https://github.com/anuraghazra/github-readme-stats)
 <br>
