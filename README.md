@@ -1,9 +1,9 @@
 # Hi there!
-I'm <strong>Lusanda</strong> from South Africa and I design and develop websites and applications. I really enjoy learning and using frameworks such as Vue.JS. Additionally, I have a high interest for <strong>backend developer languages</strong> such as Python and Java. 
+I'm <strong>Lusanda</strong> from South Africa and I design and develop websites and applications. I really enjoy learning and using frameworks such as Vue.JS. Currently, I am developing a mobile fitness app using React Native
 
 <p>Currently, I am learning:<br>
 
-<img src="https://skillicons.dev/icons?i=javascript,vuejs,sas&perline=5" /></p>
+<img src="https://skillicons.dev/icons?i=javascript,vuejs,reactjs,reactnative&perline=5" /></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LusandaTsilana)](https://github.com/anuraghazra/github-readme-stats)
 <br>
